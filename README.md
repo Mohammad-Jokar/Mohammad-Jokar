@@ -1,11 +1,11 @@
-# Hello, I'm [Your Name] 🐾
+# Hello, I'm Mohammad 🐾
 
 ## 👩‍⚕️ About Me
-I am a veterinary epidemiologist with a passion for advanced data visualization techniques. My work focuses on understanding the dynamics of animal health and disease through data analysis and visual representation. I believe that effective visualization is key to communicating complex epidemiological findings to diverse audiences.
+I am a veterinarian with a passion for advanced data visualization techniques in veterinary epidemiology. My work focuses on understanding the dynamics of animal health and disease through data analysis and visual representation. I believe that effective visualization is key to communicating complex epidemiological findings to diverse audiences.
 
 ## 🌱 Current Interests
 - Exploring innovative data visualization tools and techniques.
-- Conducting research on the impact of veterinary interventions on public health.
+- The epidemiology of antimicrobial resistance 
 - Analyzing data to identify trends and inform policy decisions.
 
 ## 🔍 Research Projects
