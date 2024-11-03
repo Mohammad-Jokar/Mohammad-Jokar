@@ -25,7 +25,6 @@ I am a veterinarian passionate about advanced data visualization techniques in v
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mohammad-jokar-727584180/?originalSubdomain=ir)
-- 
 - [Researchgate](https://www.researchgate.net/profile/Mohammad-Jokar-6)
 
 Feel free to reach out if you're interested in collaboration, discussions about data visualization, or veterinary epidemiology!
